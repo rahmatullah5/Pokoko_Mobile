@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_9c9d8f00e46662e6f4f81f27a0768ba8a96bb4be.jar" />
+    </item>
+    <item
+        jar="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_a6b3e0d301f5ab58b90fa444a22ff6c9360d3b67.jar" />
+    </item>
+    <item
+        jar="C:\Users\ErfranRplB\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_b2a88f037bf4cd44d3baa939e9febc424a1fabab.jar" />
+    </item>
+    <item
+        jar="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_6ac843975125f5011c3263d5ee2594e59d8072c5.jar" />
+    </item>
+    <item
+        jar="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\_AndroidStudioProjects\Pokoko5\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_901a4c8ee485464db4f9e27114ca2233ac645872.jar" />
+    </item>
+
+</items>
